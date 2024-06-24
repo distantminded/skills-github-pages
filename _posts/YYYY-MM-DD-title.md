@@ -1,4 +1,4 @@
 ---
-title: "Kendra's Blog"
+title: "Kendra's-Blog"
 date: 2024-06-24
 ---
