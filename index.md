@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 ---
-author: Kendra Vivian Lewis
+### Author: Kendra Vivian Lewis
 ---
-description: Hi, my name is Kendra! This is my blog page where I post articles to help others learn!
+#### Description: Hi, my name is Kendra! This is my blog page where I post articles to help others learn!
 ---
